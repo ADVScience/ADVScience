@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ADVScience
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Yandex DS group
+- 📫 How to reach me inst:
 
 <!---
 ADVScience/ADVScience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
